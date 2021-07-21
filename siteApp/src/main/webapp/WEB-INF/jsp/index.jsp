@@ -5,7 +5,7 @@
   </head>
 
   <body>
-    <c:forEach var="i" begin="1" end="10" step="1">
+    <c:forEach var="i" begin="1" end="11" step="1">
       <c:out value="${i}" />
 
       <br />
