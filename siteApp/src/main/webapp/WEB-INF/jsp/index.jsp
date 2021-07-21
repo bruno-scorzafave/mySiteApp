@@ -1,7 +1,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <html>
   <head>
-    <title>Agora vamos usar a JSTL?</title>
+    <title>Home</title>
   </head>
 
   <body>
@@ -10,6 +10,6 @@
 
       <br />
     </c:forEach>
-E agora? o que achou?
+	Usando jstl
 </body>
 </html>
