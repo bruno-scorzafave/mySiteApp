@@ -6,7 +6,7 @@
 
   <body>
   <h3>Cadastrar Visita</h3>
-  <form method= "get">
+  <form method= "post">
   	Nome: <input type="text" value="" name="nome"/>
   	Empresa: <input type="text" value="" name="empresa"/>
   	Data: <input type="date" value="" name="data"/>

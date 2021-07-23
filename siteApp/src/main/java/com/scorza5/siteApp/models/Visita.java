@@ -9,6 +9,8 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+import org.springframework.format.annotation.DateTimeFormat;
+
 @Entity
 @Table(name="visitas")
 public class Visita implements Serializable{
@@ -21,6 +23,7 @@ public class Visita implements Serializable{
 	
 	public String nome;
 	public String empresa;
+	@DateTimeFormat(pattern = "yyyy-MM-dd")
 	public Date data;
 	public String email;
 	
