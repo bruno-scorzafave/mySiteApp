@@ -6,10 +6,10 @@
 
   <body>
   <h3>Cadastrar Visita</h3>
-  <form method= "post">
+  <form method= "get">
   	Nome: <input type="text" value="" name="nome"/>
   	Empresa: <input type="text" value="" name="empresa"/>
-  	Data: <input type="text" value="" name="data"/>
+  	Data: <input type="date" value="" name="data"/>
   	Email: <input type="text" value="" name="email"/>
   	
   	<button type="submit">Salvar</button>

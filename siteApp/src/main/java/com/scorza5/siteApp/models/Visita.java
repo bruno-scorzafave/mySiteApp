@@ -1,4 +1,4 @@
-package com.scorza5.models;
+package com.scorza5.siteApp.models;
 
 import java.io.Serializable;
 import java.util.Date;
