@@ -5,11 +5,9 @@
   </head>
 
   <body>
-    <c:forEach var="i" begin="1" end="11" step="1">
-      <c:out value="${i}" />
-
-      <br />
-    </c:forEach>
-	Usando jstl
+    <h1>Bem vindo!</h1>
+    <h3>Visitas</h3>
+    <a href="/lista">Lista de visitas</a>
+    <a href="/cadastrarVisita">Cadastrar Visita</a>
 </body>
 </html>
