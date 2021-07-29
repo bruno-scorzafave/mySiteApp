@@ -27,7 +27,6 @@ public class Visita implements Serializable{
 	public Date data;
 	public String email;
 	
-	
 	public long getId() {
 		return id;
 	}
