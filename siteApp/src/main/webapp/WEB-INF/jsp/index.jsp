@@ -12,7 +12,7 @@
 <body>
 	<%-- Title bar menu --%>
 	<div data-sticky-container>
-	  <div data-sticky class='title-bar grid-x' data-options="marginTop:0;" id='titlebar'>
+	  <div data-sticky class='title-bar' data-options="marginTop:0;" id='titlebar'>
 		  <div class='title-bar-left small-4 medium-4 large-4' id='menubar'>
 		   	<ul class="vertical dropdown menu" data-dropdown-menu>
 		    	<li class='opens-bottom'><a href="#"><img alt="Menu" src="resources/assets/images/icons8-menu-24.png"></a>
