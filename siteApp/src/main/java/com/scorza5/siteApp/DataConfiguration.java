@@ -20,7 +20,7 @@ public class DataConfiguration {
         dataSource.setUrl("jdbc:mysql://localhost:3306/visitasapp?useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC");
          		//?useTimezone=true&serverTimezone=UTC");
         dataSource.setUsername("root");
-       	dataSource.setPassword("bruno6371");
+       	dataSource.setPassword("CAVALO123");
        	return dataSource;
 	}
 	
