@@ -43,15 +43,33 @@
 				</div>
 			</div>
 		</div>
-		<div class='w-auto bg-blue-700 h-52'>
+		<div class='w-auto bg-blue-700'>
 			<h2 class='text-center text-black font-black text-3xl pt-5'>Portifolio</h2>
 			<div class='grid grid-cols-3 gap-2 text-center px-4 py-2'>
-				<div class='bg-purple-900'>1</div>
-				<div class='bg-purple-900'>2</div>
-				<div class='bg-purple-900'>3</div>
-				<div class='bg-purple-900'>4</div>
-				<div class='bg-purple-900'>5</div>
-				<div class='bg-purple-900'>6</div>
+				<div class='bg-white rounded-2xl p-5'>
+					<img class='bg-gray-300 mb-2' alt="em construção" src="/resources/img/icon-construction.png">
+					<span class='font-bold'>Em breve!</span>
+				</div>
+				<div class='bg-white rounded-2xl p-5'>
+					<img class='bg-gray-300 mb-2' alt="em construção" src="/resources/img/icon-construction.png">
+					<span class='font-bold'>Em breve!</span>
+				</div>
+				<div class='bg-white rounded-2xl p-5'>
+					<img class='bg-gray-300 mb-2' alt="em construção" src="/resources/img/icon-construction.png">
+					<span class='font-bold'>Em breve!</span>
+				</div>
+				<div class='bg-white rounded-2xl p-5'>
+					<img class='bg-gray-300 mb-2' alt="em construção" src="/resources/img/icon-construction.png">
+					<span class='font-bold'>Em breve!</span>
+				</div>
+				<div class='bg-white rounded-2xl p-5'>
+					<img class='bg-gray-300 mb-2' alt="em construção" src="/resources/img/icon-construction.png">
+					<span class='font-bold'>Em breve!</span>
+				</div>
+				<div class='bg-white rounded-2xl p-5'>
+					<img class='bg-gray-300 mb-2' alt="em construção" src="/resources/img/icon-construction.png">
+					<span class='font-bold'>Em breve!</span>
+				</div>
 			</div>
 		</div>
 	</div>
