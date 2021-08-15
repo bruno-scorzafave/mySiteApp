@@ -18,34 +18,39 @@
 					<img class='h-8' src='/resources/img/icon-home-light.png' alt='Logo'></img>
 					</a>
 				</div>
-				<!-- Entre em contato -->
+				
 				<div class='flex-auto'>
+					<!-- Entre em contato -->
 					<div class='flex justify-end py-1'>
-						<button class="bg-gray-900 text-xs p-2 rounded-lg inline-flex items-center font-semibold text-blue-900">
-							<img alt="Message icon" src="/resources/img/icon-contactme.svg" class='w-4 h-4 mr-2 to-pallete'>
+						<button class="bg-gray-900 text-xs p-2 rounded-lg inline-flex items-center font-semibold text-blue-700">
+							<img alt="Message icon" src="/resources/img/icon-visita.svg" class='w-4 h-4 mr-2' style='fill:#1d4ed8;'>
+							<span>Cadastre-se!</span>
+						</button>
+						<button class="bg-gray-900 text-xs p-2 rounded-lg inline-flex items-center font-semibold text-blue-700 ml-4">
+							<img alt="Message icon" src="/resources/img/icon-contactme.svg" class='w-4 h-4 mr-2'>
 							<span class=''>Fale Comigo!</span>
 						</button>
-					</div>
+					</div><!-- Entre em contato -->
 				</div>
 			</div>
 		</div>
-		<div class='w-auto bg-white mx-4'>
-			<div class='flex'>
-				<div class='py-5'>
+		<div class='w-auto bg-white m-4'>
+			<div class='flex justfy-between'>
+				<div class='my-auto'>
 					<h1 class='text-black text-3xl font-bold'><span class='text-blue-800'>Olá,</span> seja bem-vindo ao meu site! <br>
 					Meu nome é <span class='text-blue-800'>Bruno Scorzafave</span>.</h1>
-					<h3 class='text-gray-800 text-xl'>Sou um estudante de Ciência da Computação aprimorando meus conhecimentos.</h3>
+					<h3 class='text-gray-800 text-xl'>Sou um estudante de Ciência da Computação aprimorando meus conhecimentos na área.</h3>
 				</div>
-				<div class='w-80 sm:py-5 flex ml-7'>
+				<div class='w-96 my-auto sm:py-5 ml-7'>
 					<div class='my-auto'>
 						<img alt="perfil" src="/resources/img/linkedin.jpg">
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class='w-auto bg-blue-700'>
+		<div class='w-auto bg-blue-700 my-4'>
 			<h2 class='text-center text-black font-black text-3xl pt-5'>Portifolio</h2>
-			<div class='grid grid-cols-3 gap-2 text-center px-4 py-2'>
+			<div class='grid grid-cols-3 gap-4 text-center px-4 py-2'>
 				<div class='bg-white rounded-2xl p-5'>
 					<img class='bg-gray-300 mb-2' alt="em construção" src="/resources/img/icon-construction.png">
 					<span class='font-bold'>Em breve!</span>
