@@ -48,12 +48,12 @@
 				</div>
 			</div>
 		</div>
-		<div class='w-auto bg-blue-700 my-4'>
-			<h2 class='text-center text-black font-black text-3xl pt-5'>Portifolio</h2>
+		<div class='w-auto bg-blue-700 pb-4'>
+			<h2 class='text-center text-black font-black text-3xl py-5'>Portifolio</h2>
 			<div class='grid grid-cols-3 gap-4 text-center px-4 py-2'>
 				<div class='bg-white rounded-2xl p-5'>
 					<img class='bg-gray-300 mb-2' alt="em construção" src="/resources/img/icon-construction.png">
-					<span class='font-bold'>Em breveeeee!</span>
+					<span class='font-bold'>Em breve!</span>
 				</div>
 				<div class='bg-white rounded-2xl p-5'>
 					<img class='bg-gray-300 mb-2' alt="em construção" src="/resources/img/icon-construction.png">
@@ -77,6 +77,10 @@
 				</div>
 			</div>
 		</div>
+		<div class='w-auto bg-white py-4 h-96'>
+			Habilidades
+		</div>
+		<footer class='w-auto bg-blue-700 text-center font-light'>Oi</footer>
 	</div>
 </body>
 </html>
