@@ -5,11 +5,11 @@
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<link href="/resources/build/tailwind.css" rel="stylesheet">
-	<title>Cadastrar Visita</title>
+	<title>Home</title>
 </head>
 
-  <body>
-  <div class='font-sans'>
+<body>
+	<div class='font-sans'>
 		<!-- navbar -->
 		<div class='sticky top-0 w-full bg-blue-700 z-50'>
 			<div class='flex mx-4 justify-between'>
@@ -35,16 +35,7 @@
 				</div>
 			</div>
 		</div> <!-- end navbar -->
-		<div class='flex-col m-4'>
-			<h1 class='font-bold text-center text-3xl pb-4'>Mostre que passou por aqui!</h1>
-			<form method= "post" class='flex-col'>
-				<div class='flex justify-between mb-2'><span>Nome:</span> <input type="text" class='justify-end w-9/12 border-2 border-blue-800' value="" name="nome"/></div>
-				<div class='flex justify-between mb-2'>Empresa: <input type="text" class='justify-end w-9/12 border-2 border-blue-800' value="" name="empresa"/></div>
-				<div class='flex justify-between mb-2'>Data: <input type="date" class='justify-end w-9/12 border-2 border-blue-800' value="" name="data"/></div>
-				<div class='flex justify-between mb-2'>Email: <input type="text" class='justify-end w-9/12 border-2 border-blue-800' value="" name="email"/></div>
-		  		<div class='flex justify-center mb-4'><button class='px-8 py-2 bg-gray-900 text-blue-700 rounded-2xl' type="submit">Salvar</button></div>
-			</form>
-		</div>
+		
 		<!-- Footer -->
 		<footer class='w-auto bg-blue-700 text-center p-2'>
 			<div class='flex justify-center'>
@@ -54,6 +45,5 @@
 			<span>Feito por mim &copy Bruno Scorzafave</span>
 		</footer>
 	</div>
-  	
 </body>
 </html>
